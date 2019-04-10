@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "advancedenchantments:simple_table" },
+        "inventory": { "model": "advancedenchantments:simple_table" }
+    }
+}

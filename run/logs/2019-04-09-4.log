@@ -1,0 +1,856 @@
+[19:44:40] [main/INFO] [GradleStart]: Extra: []
+[19:44:40] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/ethan/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:44:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:44:40] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:44:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:44:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[19:44:41] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2768 for Minecraft 1.12.2 loading
+[19:44:41] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_201, running on Windows 10:amd64:10.0, installed at D:\Program Files\Java\jdk1.8.0_201\jre
+[19:44:41] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[19:44:41] [main/ERROR] [FML]: Full: C:\Users\ethan\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[19:44:41] [main/ERROR] [FML]: Trimmed: c:/users/ethan/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[19:44:41] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[19:44:41] [main/INFO] [FML]: Detected deobfuscated environment, loading log configs for colored console logs.
+[19:44:44] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[19:44:44] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[19:44:44] [main/INFO] [FML]: Searching D:\Mods\1.12.2\Advanced Enchantments\run\.\mods for mods
+[19:44:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:44:44] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[19:44:44] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[19:44:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:44:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:44:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[19:44:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:44:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:44:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:50] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[19:44:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:44:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:44:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[19:44:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:44:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:44:52] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[19:44:54] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player105
+[19:45:04] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[19:45:04] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[19:45:07] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_201, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 186738392 bytes (178 MB) / 395837440 bytes (377 MB) up to 3808428032 bytes (3632 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.13547 Compatibility Profile Context 25.20.15031.1000' Renderer: 'Radeon RX 580 Series'
+[19:45:07] [main/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[19:45:07] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:45:08] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[19:45:09] [main/INFO] [FML]: Searching D:\Mods\1.12.2\Advanced Enchantments\run\.\mods for mods
+[19:45:09] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 233192000 nanos
+[19:45:12] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[19:45:14] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advancedenchantments] at CLIENT
+[19:45:14] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advancedenchantments] at SERVER
+[19:45:15] [main/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Enchantments
+[19:45:16] [main/INFO] [FML]: Processing ObjectHolder annotations
+[19:45:16] [main/INFO] [FML]: Found 1169 ObjectHolder annotations
+[19:45:16] [main/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:45:16] [main/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:45:16] [main/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:45:16] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registering TileEntity SimpleTable!
+[19:45:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:45:16] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registering SimpleTable book entity TESR!
+[19:45:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Blocks registering!
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [STDOUT]: [bigbade.advancedenchantments.registries.BlockRegistry:onBlockRegister:27]: Testing
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Blocks registered!
+[19:45:17] [main/INFO] [FML]: Applying holder lookups
+[19:45:17] [main/INFO] [FML]: Holder lookups applied
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: ItemBlocks registering!
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Air
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Air
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Grass Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Grass Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dirt
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dirt
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cobblestone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cobblestone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wooden Planks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wooden Planks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Oak Sapling
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Oak Sapling
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Bedrock
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Bedrock
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Water
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Water
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Water
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Water
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lava
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lava
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lava
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lava
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sand
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sand
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Gravel
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Gravel
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Gold Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Gold Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Iron Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Iron Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Coal Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Coal Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wood
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wood
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Leaves
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Leaves
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sponge
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sponge
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Glass
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Glass
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lapis Lazuli Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lapis Lazuli Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lapis Lazuli Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lapis Lazuli Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dispenser
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dispenser
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sandstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sandstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Note Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Note Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.bed.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.bed.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Powered Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Powered Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Detector Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Detector Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sticky Piston
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sticky Piston
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cobweb
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cobweb
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Grass
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Grass
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dead Bush
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dead Bush
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Piston
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Piston
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Piston
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Piston
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wool
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wool
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.null.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.null.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Flower
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Flower
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Flower
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Flower
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Block of Gold
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Block of Gold
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Block of Iron
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Block of Iron
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Bricks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Bricks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block TNT
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block TNT
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Bookshelf
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Bookshelf
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Moss Stone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Moss Stone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Obsidian
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Obsidian
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Torch
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Torch
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Fire
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Fire
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Monster Spawner
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Monster Spawner
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Oak Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Oak Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Chest
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Chest
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Dust
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Dust
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Diamond Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Diamond Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Block of Diamond
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Block of Diamond
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Crafting Table
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Crafting Table
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Crops
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Crops
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Farmland
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Farmland
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Furnace
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Furnace
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Furnace
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Furnace
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sign
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sign
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Oak Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Oak Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Ladder
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Ladder
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cobblestone Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cobblestone Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sign
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sign
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lever
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lever
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stone Pressure Plate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stone Pressure Plate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Iron Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Iron Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wooden Pressure Plate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wooden Pressure Plate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Torch
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Torch
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Torch
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Torch
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Button
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Button
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Snow
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Snow
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Ice
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Ice
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Snow
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Snow
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cactus
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cactus
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Clay
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Clay
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sugar cane
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sugar cane
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Jukebox
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Jukebox
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Oak Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Oak Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Pumpkin
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Pumpkin
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Netherrack
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Netherrack
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Soul Sand
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Soul Sand
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Glowstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Glowstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Portal
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Portal
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Jack o'Lantern
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Jack o'Lantern
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cake
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cake
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Repeater
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Repeater
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Repeater
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Repeater
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stained Glass
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stained Glass
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wooden Trapdoor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wooden Trapdoor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stone Monster Egg
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stone Monster Egg
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stone Bricks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stone Bricks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Mushroom
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Iron Bars
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Iron Bars
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Glass Pane
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Glass Pane
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Melon
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Melon
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Pumpkin Stem
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Pumpkin Stem
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Pumpkin Stem
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Pumpkin Stem
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Vines
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Vines
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Oak Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Oak Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Brick Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Brick Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stone Brick Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stone Brick Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Mycelium
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Mycelium
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lily Pad
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lily Pad
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Nether Brick
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Nether Brick
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Nether Brick Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Nether Brick Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Nether Brick Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Nether Brick Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Nether Wart
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Nether Wart
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Enchantment Table
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Enchantment Table
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Brewing Stand
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Brewing Stand
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cauldron
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cauldron
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.null.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.null.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block End Portal
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block End Portal
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block End Stone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block End Stone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dragon Egg
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dragon Egg
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Lamp
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Lamp
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Lamp
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Lamp
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wood Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wood Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wood Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wood Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cocoa
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cocoa
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sandstone Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sandstone Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Emerald Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Emerald Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Ender Chest
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Ender Chest
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Tripwire Hook
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Tripwire Hook
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Tripwire
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Tripwire
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Block of Emerald
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Block of Emerald
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Spruce Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Spruce Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Birch Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Birch Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Jungle Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Jungle Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Command Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Command Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Beacon
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Beacon
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cobblestone Wall
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cobblestone Wall
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Flower Pot
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Flower Pot
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Carrots
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Carrots
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Potatoes
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Potatoes
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Button
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Button
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.skull.skeleton.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.skull.skeleton.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Anvil
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Anvil
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Trapped Chest
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Trapped Chest
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Weighted Pressure Plate (Light)
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Weighted Pressure Plate (Light)
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Weighted Pressure Plate (Heavy)
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Weighted Pressure Plate (Heavy)
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Comparator
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Comparator
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Redstone Comparator
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Redstone Comparator
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Daylight Sensor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Daylight Sensor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Block of Redstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Block of Redstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Nether Quartz Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Nether Quartz Ore
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Hopper
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Hopper
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Block of Quartz
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Block of Quartz
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Quartz Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Quartz Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Activator Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Activator Rail
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dropper
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dropper
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stained Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stained Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Stained Glass Pane
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Stained Glass Pane
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Leaves
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Leaves
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Wood
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Wood
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Acacia Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Acacia Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dark Oak Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dark Oak Wood Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Slime Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Slime Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Barrier
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Barrier
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Iron Trapdoor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Iron Trapdoor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Prismarine
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Prismarine
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Sea Lantern
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Sea Lantern
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Hay Bale
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Hay Bale
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Carpet
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Carpet
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Block of Coal
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Block of Coal
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Packed Ice
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Packed Ice
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Plant
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Plant
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block White Banner
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block White Banner
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block White Banner
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block White Banner
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Daylight Sensor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Daylight Sensor
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Red Sandstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Red Sandstone
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Red Sandstone Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Red Sandstone Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Red Sandstone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Red Sandstone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Red Sandstone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Red Sandstone Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Spruce Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Spruce Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Birch Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Birch Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Jungle Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Jungle Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dark Oak Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dark Oak Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Acacia Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Acacia Fence Gate
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Spruce Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Spruce Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Birch Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Birch Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Jungle Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Jungle Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dark Oak Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dark Oak Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Acacia Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Acacia Fence
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Spruce Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Spruce Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Birch Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Birch Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Jungle Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Jungle Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Acacia Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Acacia Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Dark Oak Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Dark Oak Door
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block End Rod
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block End Rod
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Chorus Plant
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Chorus Plant
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Chorus Flower
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Chorus Flower
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Purpur Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Purpur Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Purpur Pillar
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Purpur Pillar
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Purpur Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Purpur Stairs
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Purpur Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Purpur Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Purpur Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Purpur Slab
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block End Stone Bricks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block End Stone Bricks
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Beetroots
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Beetroots
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Grass Path
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Grass Path
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.null.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.null.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Repeating Command Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Repeating Command Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Chain Command Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Chain Command Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Frosted Ice
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Frosted Ice
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Magma Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Magma Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Nether Wart Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Nether Wart Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Red Nether Brick
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Red Nether Brick
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Bone Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Bone Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Structure Void
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Structure Void
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Observer
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Observer
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block White Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block White Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Orange Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Orange Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Magenta Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Magenta Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Light Blue Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Light Blue Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Yellow Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Yellow Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lime Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lime Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Pink Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Pink Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Gray Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Gray Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Light Gray Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Light Gray Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cyan Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cyan Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Purple Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Purple Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Blue Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Blue Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Brown Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Brown Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Green Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Green Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Red Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Red Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Black Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Black Shulker Box
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block White Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block White Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Orange Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Orange Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Magenta Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Magenta Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Light Blue Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Light Blue Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Yellow Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Yellow Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Lime Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Lime Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Pink Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Pink Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Gray Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Gray Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Light Gray Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Light Gray Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Cyan Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Cyan Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Purple Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Purple Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Blue Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Blue Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Brown Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Brown Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Green Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Green Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Red Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Red Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Black Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Black Glazed Terracotta
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.concrete.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.concrete.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.concretePowder.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.concretePowder.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block Structure Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block Structure Block
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Found block tile.simple_table.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: Registered ItemBlock for block tile.simple_table.name
+[19:45:17] [main/INFO] [bigbade.advancedenchantments.AdvancedEnchantments]: ItemBlocks registered!
+[19:45:17] [main/INFO] [FML]: Applying holder lookups
+[19:45:17] [main/INFO] [FML]: Holder lookups applied
+[19:45:17] [main/INFO] [FML]: Applying holder lookups
+[19:45:17] [main/INFO] [FML]: Holder lookups applied
+[19:45:17] [main/INFO] [FML]: Applying holder lookups
+[19:45:17] [main/INFO] [FML]: Holder lookups applied
+[19:45:17] [main/INFO] [FML]: Injecting itemstacks
+[19:45:17] [main/INFO] [FML]: Itemstack injection complete
+[19:45:29] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[19:45:29] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[19:45:29] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:45:30] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[19:45:30] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[19:45:52] [main/INFO] [FML]: Max texture size: 16384
+[19:45:53] [main/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[19:45:55] [main/ERROR] [FML]: Exception loading model for variant advancedenchantments:simple_table#normal for blockstate "advancedenchantments:simple_table"
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model advancedenchantments:simple_table#normal with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.registerVariant(ModelLoader.java:235) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:153) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:559) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 21 more
+[19:45:55] [main/ERROR] [FML]: Exception loading blockstate for the variant advancedenchantments:simple_table#normal: 
+java.lang.Exception: Could not load model definition for variant advancedenchantments:simple_table
+	at net.minecraftforge.client.model.ModelLoader.getModelBlockDefinition(ModelLoader.java:269) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadBlock(ModelBakery.java:121) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadBlocks(ModelLoader.java:223) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:150) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:559) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: java.lang.RuntimeException: Encountered an exception when loading model definition of model advancedenchantments:blockstates/simple_table.json
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadMultipartMBD(ModelBakery.java:228) ~[ModelBakery.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:208) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.getModelBlockDefinition(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 20 more
+Caused by: java.io.FileNotFoundException: advancedenchantments:blockstates/simple_table.json
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getAllResources(SimpleReloadableResourceManager.java:83) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadMultipartMBD(ModelBakery.java:221) ~[ModelBakery.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.getModelBlockDefinition(ModelBakery.java:208) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.getModelBlockDefinition(ModelLoader.java:265) ~[ModelLoader.class:?]
+	... 20 more
+[19:45:55] [main/ERROR] [FML]: Exception loading model for variant advancedenchantments:simple_table#inventory for item "advancedenchantments:simple_table", normal location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model advancedenchantments:item/simple_table with loader VanillaLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:302) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:559) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: java.io.FileNotFoundException: advancedenchantments:models/item/simple_table.json
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:69) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadModel(ModelBakery.java:334) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.access$1400(ModelLoader.java:115) ~[ModelLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VanillaLoader.loadModel(ModelLoader.java:861) ~[ModelLoader$VanillaLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[19:45:55] [main/ERROR] [FML]: Exception loading model for variant advancedenchantments:simple_table#inventory for item "advancedenchantments:simple_table", blockstate location exception: 
+net.minecraftforge.client.model.ModelLoaderRegistry$LoaderException: Exception loading model advancedenchantments:simple_table#inventory with loader VariantLoader.INSTANCE, skipping
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:161) ~[ModelLoaderRegistry.class:?]
+	at net.minecraftforge.client.model.ModelLoader.loadItemModels(ModelLoader.java:296) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelBakery.loadVariantItemModels(ModelBakery.java:175) ~[ModelBakery.class:?]
+	at net.minecraftforge.client.model.ModelLoader.setupModelRegistry(ModelLoader.java:151) ~[ModelLoader.class:?]
+	at net.minecraft.client.renderer.block.model.ModelManager.onResourceManagerReload(ModelManager.java:28) [ModelManager.class:?]
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.registerReloadListener(SimpleReloadableResourceManager.java:121) [SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.Minecraft.init(Minecraft.java:559) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$MissingVariantException
+	at net.minecraft.client.renderer.block.model.ModelBlockDefinition.getVariant(ModelBlockDefinition.java:83) ~[ModelBlockDefinition.class:?]
+	at net.minecraftforge.client.model.ModelLoader$VariantLoader.loadModel(ModelLoader.java:1175) ~[ModelLoader$VariantLoader.class:?]
+	at net.minecraftforge.client.model.ModelLoaderRegistry.getModel(ModelLoaderRegistry.java:157) ~[ModelLoaderRegistry.class:?]
+	... 20 more
+[19:45:58] [main/INFO] [FML]: Applying holder lookups
+[19:45:58] [main/INFO] [FML]: Holder lookups applied
+[19:45:58] [main/INFO] [FML]: Injecting itemstacks
+[19:45:58] [main/INFO] [FML]: Itemstack injection complete
+[19:45:58] [main/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[19:45:58] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[19:45:59] [main/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[19:46:00] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: Invalid session id
+[19:47:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Starting integrated minecraft server version 1.12.2
+[19:47:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Generating keypair
+[19:47:27] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[19:47:28] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world advancedenchantments:tile.simple_table
+[19:47:28] [Server thread/INFO] [FML]: Registry Item: Found a missing id from the world advancedenchantments:tile.simple_table
+[19:47:28] [Server thread/ERROR] [FML]: Unidentified mapping from registry minecraft:blocks
+[19:47:28] [Server thread/ERROR] [FML]:     advancedenchantments:tile.simple_table: 253
+[19:47:28] [Server thread/ERROR] [FML]: Unidentified mapping from registry minecraft:items
+[19:47:28] [Server thread/ERROR] [FML]:     advancedenchantments:tile.simple_table: 4096
+[19:47:30] [Server thread/INFO] [FML]: World backup created at D:\Mods\1.12.2\Advanced Enchantments\run\saves\Test World-20190409-194730.zip.
+[19:47:30] [Server thread/ERROR] [FML]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[19:47:30] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: advancedenchantments:simple_table Expected: 253 Got: 254
+[19:47:30] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: advancedenchantments:simple_table Expected: 4096 Got: 4097
+[19:47:31] [Server thread/INFO] [FML]: Applying holder lookups
+[19:47:31] [Server thread/INFO] [FML]: Holder lookups applied
+[19:47:31] [Server thread/INFO] [FML]: Loading dimension 0 (Test World) (net.minecraft.server.integrated.IntegratedServer@6d8586f1)
+[19:47:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[19:47:33] [Server thread/INFO] [FML]: Loading dimension -1 (Test World) (net.minecraft.server.integrated.IntegratedServer@6d8586f1)
+[19:47:33] [Server thread/INFO] [FML]: Loading dimension 1 (Test World) (net.minecraft.server.integrated.IntegratedServer@6d8586f1)
+[19:47:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:47:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 0%
+[19:47:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 28%
+[19:47:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 72%
+[19:47:38] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:47:38] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:47:38] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Changing view distance to 12, from 10
+[19:47:41] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[19:47:41] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[19:47:41] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2768,mcp@9.42,advancedenchantments@1.0.0
+[19:47:41] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[19:47:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:47:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Player105[local:E:a8094f04] logged in with entity id 456 at (84.30062366235244, 64.0, 195.92163862385775)
+[19:47:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Player105 joined the game
+[19:47:45] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[19:47:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Test World'/overworld
+[19:47:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3294ms behind, skipping 65 tick(s)
+[19:47:47] [pool-2-thread-1/WARN] [com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@1c4fb5f7[id=57dc6a46-e74c-3ba4-9f22-c0301d6047ec,name=Player105,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:79) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:180) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:60) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:57) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147) [guava-21.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153) [guava-21.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:170) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.Minecraft.getProfileProperties(Minecraft.java:3181) [Minecraft.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:138) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_201]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_201]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_201]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_201]
+[19:48:01] [main/WARN] [net.minecraft.client.renderer.texture.TextureManager]: Failed to load texture: advancedenchantments:textures/gui/container/simple_table.png
+java.io.FileNotFoundException: advancedenchantments:textures/gui/container/simple_table.png
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:69) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:34) ~[SimpleTexture.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:69) [TextureManager.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:44) [TextureManager.class:?]
+	at bigbade.advancedenchantments.blocks.simpleenchanter.SimpleEnchanterGUI.drawGuiContainerBackgroundLayer(SimpleEnchanterGUI.java:104) [SimpleEnchanterGUI.class:?]
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:93) [GuiContainer.class:?]
+	at bigbade.advancedenchantments.blocks.simpleenchanter.SimpleEnchanterGUI.drawScreen(SimpleEnchanterGUI.java:231) [SimpleEnchanterGUI.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:381) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1177) [EntityRenderer.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1208) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:441) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[19:48:01] [main/WARN] [net.minecraft.client.renderer.texture.TextureManager]: Failed to load texture: advancedenchantments:textures/entity/simple_table_book.png
+java.io.FileNotFoundException: advancedenchantments:textures/entity/simple_table_book.png
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:69) ~[SimpleReloadableResourceManager.class:?]
+	at net.minecraft.client.renderer.texture.SimpleTexture.loadTexture(SimpleTexture.java:34) ~[SimpleTexture.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:69) [TextureManager.class:?]
+	at net.minecraft.client.renderer.texture.TextureManager.bindTexture(TextureManager.java:44) [TextureManager.class:?]
+	at bigbade.advancedenchantments.blocks.simpleenchanter.SimpleEnchanterGUI.drawGuiContainerBackgroundLayer(SimpleEnchanterGUI.java:125) [SimpleEnchanterGUI.class:?]
+	at net.minecraft.client.gui.inventory.GuiContainer.drawScreen(GuiContainer.java:93) [GuiContainer.class:?]
+	at bigbade.advancedenchantments.blocks.simpleenchanter.SimpleEnchanterGUI.drawScreen(SimpleEnchanterGUI.java:231) [SimpleEnchanterGUI.class:?]
+	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:381) [ForgeHooksClient.class:?]
+	at net.minecraft.client.renderer.EntityRenderer.updateCameraAndRender(EntityRenderer.java:1177) [EntityRenderer.class:?]
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1208) [Minecraft.class:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:441) [Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:118) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_201]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_201]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_201]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_201]
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
+	at GradleStart.main(GradleStart.java:25) [start/:?]
+[20:06:23] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 2 advancements

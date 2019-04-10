@@ -1,0 +1,2 @@
+itemGroup.advancedenchantmentstab=Advanced Enchantments
+tile.simple_table.name=Simple Table

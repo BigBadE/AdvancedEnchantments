@@ -1,0 +1,16 @@
+[
+{
+  "modid": "advancedenchantments",
+  "name": "Advanced Enchantments",
+  "description": "Upgrade your weapons with advanced enchantments!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Big_Bad_E"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
