@@ -1,2 +1,2 @@
 # AdvancedEnchantments
-Advanced Enchantments for Minecraft
+This is a WIP mod.
