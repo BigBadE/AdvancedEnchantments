@@ -99,6 +99,7 @@ public class SimpleEnchanterGUI extends GuiContainer {
      * Draws the background layer of this container (behind the items).
      */
     protected void drawGuiContainerBackgroundLayer(float partialTicks, int mouseX, int mouseY) {
+        System.out.println(ENCHANTMENT_TABLE_GUI_TEXTURE.toString());
         GlStateManager.color(1.0F, 1.0F, 1.0F, 1.0F);
         this.mc.getTextureManager().bindTexture(ENCHANTMENT_TABLE_GUI_TEXTURE);
         int i = (this.width-this.xSize)/2;

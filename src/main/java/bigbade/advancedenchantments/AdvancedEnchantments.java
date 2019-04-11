@@ -42,8 +42,6 @@ public class AdvancedEnchantments {
         GameRegistry.registerTileEntity(SimpleEnchanterTile.class, new ResourceLocation(Reference.MODID.toString(), "simple_table"));
         AdvancedEnchantments.LOGGER.info("Registering SimpleTable book entity TESR!");
         ClientRegistry.bindTileEntitySpecialRenderer(SimpleEnchanterTile.class, new SimpleEnchanterRenderer());
-        LOGGER.info("Registering item models!");
-        registerItemModels();
     }
 
     @Mod.EventHandler
@@ -55,9 +53,5 @@ public class AdvancedEnchantments {
     @Mod.EventHandler
     public void onPostInit(FMLPostInitializationEvent event) {
         PROXY.postInitialization(event);
-    }
-
-    private void registerItemModels() {
-        PROXY.registerItemRenderer(Item.getItemFromBlock(BlockRegistry.SIMPLE_ENCHANTER), 0, "simple_table");
     }
 }

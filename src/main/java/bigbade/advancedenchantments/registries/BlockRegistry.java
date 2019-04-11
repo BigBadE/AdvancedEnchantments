@@ -6,6 +6,7 @@ import bigbade.advancedenchantments.blocks.simpleenchanter.SimpleEnchanterBlock;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
+import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
@@ -39,5 +40,11 @@ public class BlockRegistry {
             }
         }
         AdvancedEnchantments.LOGGER.info("ItemBlocks registered!");
+    }
+
+    @SubscribeEvent
+    public static void onModelRegister(ModelRegistryEvent event) {
+        AdvancedEnchantments.LOGGER.info("Registering item models!");
+        AdvancedEnchantments.PROXY.registerItemRenderer(Item.getItemFromBlock(BlockRegistry.SIMPLE_ENCHANTER), 0, "simple_table");
     }
 }

@@ -1,6 +1,6 @@
 {
     "variants": {
-        "normal": { "model": "advancedenchantments:simple_table" },
-        "inventory": { "model": "advancedenchantments:simple_table" }
+        "normal": { "model": "advancedenchantments:blocks/simple_table" },
+        "inventory": { "model": "advancedenchantments:blocks/simple_table" }
     }
 }
